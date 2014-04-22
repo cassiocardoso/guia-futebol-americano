@@ -1,10 +1,10 @@
-## Glossário de termos básicos do Futebol Americano
+# Glossário de termos básicos do Futebol Americano
 
 Este glossário reunirá os termos básicos utilizados no futebol americano (_football_).
 
 O objetivo é ajudar os novatos (_rookies_) e torcedores que estão começando a acompanhar o esporte agora a se acostumarem com os termos e entenderem melhor o que é dito durante uma partida.
 
-### A
+## A
 
 **Agente livre (Free agent)**
 
@@ -18,7 +18,7 @@ Grama artificial utilizada em diversos estádios e campos dos Estados Unidos.
 
 Comandos verbais utilizados pelos _quarterbacks_ já na linha de _scrimmage_ instantes antes de iniciar uma jogada com o objetivo de realizar algum ajuste rápido na equipe.
 
-### B
+## B
 
 **Backfield**
 
@@ -72,7 +72,7 @@ Partida de _College Football_ disputada no fim de dezembro e início de janeiro,
 
 Técnica utilizada por jogadores defensivos, onde eles fazem contato com um recebedor até 10 jardas da linha de _scrimmage_ para atrasá-lo, e depois o seguem para evitar que o jogador consiga receber um passe.
 
-### C
+## C
 
 **Capologist**
 
@@ -106,7 +106,7 @@ Situação em que o time defensivo desloca 2 jogadores para marcarem um recebedo
 
 Mudança súbita de direção feita por um _running back_ para dificultar a marcação da defesa.
 
-### D
+## D
 
 **Defesa em nickel**
 
@@ -140,7 +140,7 @@ Movimentação de um _quarterback_ após receber um _snap_. Ele realiza alguns p
 
 Tipo de chute feito quando um jogador derruba a bola no chão e a chuta após ela tocar o gramado. Dificilmente é utilizado hoje em dia.
 
-### E
+## E
 
 **Escolha de Draft**
 
@@ -154,7 +154,7 @@ Falta que ocorre quando algum jogador (além do _center_) está na zona neutra e
 
 Área entre a linha de gol e a linha de fundo onde um time ofensivo tenta entrar para marcar um _touchdown_. A _end zone_ possui 10 jardas de comprimento e a largura total do campo.
 
-### F
+## F
 
 **Fair catch**
 
@@ -184,7 +184,7 @@ Tipo de chute feito para começar a partida, ou recomeçá-la após um time ter 
 
 Quando um _ball carrier_ perde o controle da bola, deixando-a cair, ou tendo ela retirada a força pela ação de um jogador adversário, antes da jogada terminar. O primeiro jogador a recuperar a posse de bola é dito como tendo feito uma recuperação, e este time terá a chance de iniciar uma campanha ofensiva.
 
-### G
+## G
 
 **Gol**
 
@@ -194,7 +194,7 @@ Estrutura de metal que fica posicionada no final de cada _end zone_. Consiste de
 
 É uma expressão utilizada quando uma equipe decide fazer uma jogada ofensiva em uma quarta descida para conquistar o _first down_ ao invés de realizar um _punt_. Caso a tentativa fracasse a equipe perde a posse de bola.
 
-### H
+## H
 
 **Handoff**
 
@@ -216,7 +216,7 @@ Falta onde um jogador impede o movimento do adversário segurando-o ou prendendo
 
 É o benefício conquistado por um time ao jogar partidas em seu estátio, contando com o apoio da torcida, familiaridade com o local e não precisar viajar.
 
-### I
+## I
 
 **In Bounds**
 
@@ -232,7 +232,7 @@ Falta marcada contra um _quarterbakc_ que, intencionalmente, lança um passe imp
 
 Passe completo recebido por um jogador de defesa. O time de defesa ganha, imediatamente, a posse de bola no ponto onde a jogada terminar.
 
-### J
+## J
 
 **Jogada**
 
@@ -242,13 +242,13 @@ Toda ação que ocorre entre um _snap_ e o momento em que a bola é declarada mo
 
 Um jogador da equipe ofensiva que tem permissão para estar se movimentando no momento do _snap_. Ele só pode se movimentar lateralmente à linha de _scrimmage_ ou se afastar dela.
 
-### K
+## K
 
 **Kick off**
 
 Chute dado por uma equipe para iniciar um tempo de jogo, ou para reiniciar a partida após alguma pontuação.
 
-### L
+## L
 
 **Ler a defesa**
 
@@ -266,9 +266,9 @@ Linha que demarca o fim do campo.
 
 Linha imaginária que nenhum jogador pode cruzar antes do _snap_. Cada time possui sua própria linha de _scrimmage_, separadas pela zona neutra.
 
-### M
+## M
 
-### N
+## N
 
 **NFL (National Football League)**
 
@@ -282,7 +282,7 @@ Partida disputada ao final de cada temporada entre 1933 e 1965 para decidir o ca
 
 Terceiro _cornerback_ de uma equipe. Atua em situações em que a defesa prevê uma situação de passe e coloca um  marcador extra em campo para aumentar sua proteção contra o jogo aéreo.
 
-### O
+## O
 
 **Offside**
 
@@ -292,7 +292,7 @@ Quando qualquer parte do corpo de um jogador está após a sua linha de _scrimma
 
 Região do campo que toca ou fora das linhas laterais e linhas de fundo. Assim que um jogador ou a bola toca qualquer parte fora dos limites do campo a jogada é encerrada.
 
-### P
+## P
 
 **Pass rush**
 
@@ -378,9 +378,9 @@ Chute de devolução de bola dado por um jogador para a outra equipe com a inten
 
 Marcador laranja posicionado nos 4 cantos de cada _end zone_.
 
-### Q
+## Q
 
-### R
+## R
 
 **Recebedor**
 
@@ -410,13 +410,13 @@ Jogador que está em seu primeiro ano na NFL.
 
 Caminho pré-determinado que o _wide receiver_ deve percorrer, facilitando sua localização pelo _quarterback_, para que ele possa receber um passe.
 
-### S
+## S
 
 **Sack**
 
 É um _tackle_, atrás da linha de _scrimmage_ em um jogador que está tentando efetuar um passe, normalmente um _quarterback_.
 
-### T
+## T
 
 **Tackle**
 
@@ -442,21 +442,21 @@ Quando uma equipe perde, involuntariamente, a posse da bola durante uma jogada, 
 
 Termo utilizado para descrever uma situação em que uma equipe perde a posse de bola por não conseguir atingir a linha de _first down_ em suas 4 tentativas.
 
-### U
+## U
 
-### V
+## V
 
-### W
+## W
 
 **Wild card**
 
 Time que consegue se classificar para os _playoffs_ da NFL sem ter sido campeão de nenhuma divisão.
 
-### X
+## X
 
-### Y
+## Y
 
-### Z
+## Z
 
 **Zebras**
 
