@@ -216,6 +216,10 @@ Falta onde um jogador impede o movimento do adversário segurando-o ou prendendo
 
 É o benefício conquistado por um time ao jogar partidas em seu estátio, contando com o apoio da torcida, familiaridade com o local e não precisar viajar.
 
+**Huddle**
+
+Reunião dos jogadores de um time, feita antes de iniciar a jogada seguinte onde é definida qual será a jogada a ser feita naquele momento.
+
 ## I
 
 **In Bounds**
