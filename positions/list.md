@@ -38,11 +38,29 @@ Normalmente os _wide receivers_ se posicionam nos extremos do campo. Seu biotipo
 
 ### Tight End (TE)
 
+O _tight end_ (chamado de ponta em português) é um jogador híbrido entre um _wide receiver_ e um jogador de linha ofensiva. 
+
+Ele atua tanto na proteção para o passe, bloqueando jogadores adversários, quanto no jogo aéreo, pois ele é um jogador elegível.
+
+Seu posicionamento é, normalmente, ao lado de um dos _offensive tackles_, porém é mais comum ele se posicionar ao lado do _right tackle_. Este lado é conhecido como _strong side_ (lado forte).
+
 ### Offensive Tackles (OT)
+
+Os _offensive tackles_ são os jogadores que se posicionam nas pontas da linha ofensiva. 
+
+Normalmente são os maiores jogadores do time ofensivo, são altos e fortes e atuam, primariamente, ajudando a proteger o _quarterback_ nas situações de passe.
 
 ### Offensive Guards (OG)
 
+Os _offensive guards_ são os jogadores que se posicionam ao lado do center, entre ele e os _offensive tackles_. 
+
+Os _guards_ normalmente não são tão grandes como os _tackles_ mas são mais ágeis, diversas vezes são utilizados em movimentações para bloquear no jogo corrido.
+
 ### Center (C)
+
+O _center_ é o jogador que se posiciona no meio da linha ofensiva. Ele sempre é o primeiro jogador a tocar na bola em uma jogada pois ele é responsável para passar a bola por entre suas pernas para um jogador, normalmente o _quarterback_, em um movimento chamado de _snap_.
+
+O _center_ é um líder em campo pois cabe a ele realizar chamadas de bloqueio para a linha ofensiva, ler a formação da linha defensiva e realizar qualquer ajuste necessário para a linha.
 
 ## Defesa
 
