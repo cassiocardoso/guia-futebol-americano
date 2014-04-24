@@ -66,22 +66,60 @@ O _center_ é um líder em campo pois cabe a ele realizar chamadas de bloqueio p
 
 ### Corner Back (CB)
 
+O _corner back_ (chamado de lateral ou marcador lateral em português) é o jogador de defesa encarregado de marcar os recebedores do time ofensivo.
+
+Os _corner backs_ são jogadores rápidos, ágeis, capazes de acompanharem os recebedores por todo o campo para impedí-los de receber um passe.
+
 ### Free Safety (FS)
+
+O _free safety_ (chamado de líbero em português) é o último jogador de defesa em campo, sua função principal é prevenir passes em profundidade para os recebedores adversários.
 
 ### Strong Safety (SS)
 
+O _strong safety_ atua tanto no auxílio contra o jogo corrido, como na cobertura de passe. Ao contrário do _free safety_, ele não começa a jogada tão afastado da linha de _scrimmage_. Ele começa um pouco mais próximo pois sua função é ajudar a defender o jogo corrido.
+
 ### Middle Linebacker (MLB)
+
+O _middle linebacker_ é o líder da defesa em campo, em alguns casos ele é chamado de "o _quarterback_ da defesa". Isto é dito porque normalmente o coordenador defensivo passará a jogada para ele, e ele deverá passar para os demais jogadores.
+
+O _middle linebacker_ não atua tanto na pressão ao time adversário (apesar de poder ir em uma _blitz_ também) sua função é mais ocnter os passes curtos no meio do campo e segurar o jogo corrido. Por isso os _middle linebackers_ normalmente são os líderes em _tackles_ dos times.
 
 ### Outside Linebacker (OLB)
 
+O _outside linebacker_ atua nas laterais da defesa, próximo a linha defensiva. 
+
+Dependendo do esquema utilizado pela defesa sua função específica pode variar, porém ele é, em geral, mais utilizado para pressionar o _quarterback_ adversário.
+
+Em alguns casos são responsáveis por cobrirem os passes curtos, apesar de não precisarem fazer isso com frequência.
+
 ### Defensive End (DE)
 
+O _defensive end_ (chamado de ponta defensivo em português) é o jogador que atua na ponta da linha defensiva. 
+
+Ele normalmente é um jogador muito forte, para ser capaz de escapar dos bloqueios, mas também bem rápido para conseguir perseguir o _quarterback_ adversário e também parar o _running back_.
+
 ### Defensive Tackle (DT)
+
+O _defensive tackle_ é o jogador que atua no meio da linha defensiva.
+
+Ele é um jogador muito forte, sua principal função é tentar quebrar o meio do bloqueio da linha ofensiva para anular o jogo corrido, e em alguns casos, chegar ao _quarterback_ para realizar um _sack_.
+
+Em uma defesa que utiliza 3 jogadores na linha defensiva, o jogador do meio recebe o nome de _Nose Tackle (NT)_. Em defesas que utilizam 4 jogadores na linha defensiva, ambos os jogadores posicionados no meio da linha são chamados de _defensive tackles_.
 
 ## Especialistas
 
 ### Kicker (K)
 
+O _kicker_ (chamado de chutador em português) é o jogador responsável por realizar a maior parte dos chutes de sua equipe como: _kickoff_ e _field goal_.
+
+Além de ter uma perna forte, para conseguir acertar o _field goal_ de longas distâncias, o _kicker_ deve ter uma boa precisão, para que a sua porcentagem de acerto seja a maior possível.
+
 ### Punter (P)
 
+O _punter_ é responsável pelos chutes de _punt_. Em muitos casos é essencial que além de possuir a força na perna, ele tenha uma boa pontaria para saber onde chutar a bola em situações específicas do jogo.
+
 ### Returner (KR/PR)
+
+O _returner_ (chamado de retornador em português) é um jogador muito rápido e ágil, para conseguir retornar os chutes de _kickoff_ e _punt_.
+
+Muitos times delegam essa função para jogadores que não são titulares, para minimizar o risco de lesão. Outros chegam até a utilizar 2 jogadores diferentes para retornar os chutes, um para retornar _kickoffs_ e outro para retornar os _punts_.
